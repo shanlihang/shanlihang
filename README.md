@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=150&section=header&text=Hey，I'm 航 👨‍💻!&fontSize=40&fontColor=ffffff"/>
+  <h1>Hey，I'm 航 👨‍💻</h1>
 </div>
 <h3 align="center">🚧 工程师 🛠️ → 产品孵化者 🧪 的修炼旅途</h3>
 <p align="center">热爱构建系统，执着于将 idea 转化为 MVP。</p>
